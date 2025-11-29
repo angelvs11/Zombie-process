@@ -1,6 +1,6 @@
 📄 Homework 2 – Zombie Processes Project
 
-Autor: Iván Ramos de la Torre Curso: Ingeniería de Software y Minería de Datos
+Autor: Angel Valencia
 
 Descripción del Proyecto
 
@@ -146,3 +146,4 @@ Notas
     Requiere Linux con soporte /proc y fork().
 
     Los programas están comentados para explicar cada función y paso.
+
